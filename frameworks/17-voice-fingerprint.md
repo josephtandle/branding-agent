@@ -135,20 +135,20 @@ Is this channel-ready? Right length, right structure, right CTA, right hashtags,
 
 ---
 
-## Mastermind HQ Voice Fingerprint
+## Applied Example: Harborlight Studio Voice Fingerprint
 
 | Axis | Score | Notes |
 |------|-------|-------|
-| Tone (Funny-Serious) | 3.5 | Warm and direct, occasional lightness, not comedic |
-| Formality (Casual-Formal) | 2 | Conversational, friend-to-friend |
-| Irreverence (Irreverent-Respectful) | 2.5 | Willing to challenge norms, respectful of people |
-| Energy (Matter-of-fact-Enthusiastic) | 3.5 | Genuine enthusiasm without performance |
+| Tone (Funny-Serious) | 3.5 | Warm and direct, with occasional lightness but not comedy |
+| Formality (Casual-Formal) | 2 | Conversational and friend-to-friend |
+| Irreverence (Irreverent-Respectful) | 2.5 | Willing to challenge app stacking while respecting practitioners |
+| Energy (Matter-of-fact-Enthusiastic) | 3.5 | Genuine enthusiasm for building useful systems without performance |
 
 **Structural markers:**
-- Average sentence length: 12-20 words, high variance (very short sentences mixed with longer ones)
+- Average sentence length: 12-20 words, with very short sentences mixed with longer ones
 - Paragraphs: 1-3 sentences, never dense blocks
-- Behavior-before-claim opening pattern (name what someone does before naming the consequence)
+- Behavior-before-claim opening pattern: name what the practitioner does before naming the consequence
 - No em dashes. No ellipses in copy. Periods and line breaks preferred.
 
-**Signature vocabulary:** love, actually, honestly, specific, together, real, just, already
+**Signature vocabulary:** build, together, specific, system, client, practice, actually, something built
 **Banned vocabulary:** leverage, utilize, seamless, cutting-edge, revolutionary, delve, game-changer, robust, innovative, synergy

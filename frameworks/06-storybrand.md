@@ -24,7 +24,7 @@ Every brand story has the same structure as every movie that works:
 
 Yoda, not Luke. Gandalf, not Frodo. The guide has been where the hero is going and knows the way. The guide's job is to equip, not to impress.
 
-This means: stop leading with "We are the #1 automation mastermind." Start leading with "You built something real. Now let's make sure it runs without you."
+This means: stop leading with "We are the #1 automation program." Start leading with "You built something real. Now let's make sure it runs without you."
 
 ---
 
@@ -62,13 +62,13 @@ Bad plan: "Complete our 14-module onboarding, fill in the intake form, attend or
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-**Character:** The creator/founder who built something real and is running it manually.
-**External problem:** Spending all their time on operations, tools don't talk to each other.
-**Internal problem:** "I feel like I should have figured this out by now."
-**Philosophical problem:** "A business this good shouldn't require this much of me."
-**Guide:** Joe. Authority (90,000 trained, $568k month) + empathy ("I've been there — I built this system myself first").
-**Plan:** 1. Join the mastermind. 2. Build live, together, every week. 3. Your business runs without you.
-**Success:** "I run a business that runs itself, and it still sounds like me."
-**Failure:** Keep trading time for tasks, hit the ceiling harder, watch your energy drain into admin forever.
+**Character:** The independent consultant, coach, or practitioner with a full client roster who still handles delivery and admin personally.
+**External problem:** Every client step depends on manual attention, while more apps add more disconnected work.
+**Internal problem:** "They should not have to hold every piece of this alone."
+**Philosophical problem:** "A strong practice should not require its founder to carry every repeatable task."
+**Guide:** Rae Alvarez. Her authority comes from building the system for her own manual solo practice first and publishing proof of how it works. Her empathy comes from years of doing the work manually herself.
+**Plan:** 1. Join The Harborlight Build. 2. Build the system live, week by week. 3. Leave each session with something built for client delivery or admin.
+**Success:** "The practice has a system for the repeatable work, and the founder can stay present with clients."
+**Failure:** Keep adding apps and content while every delivery and admin task still depends on the founder.

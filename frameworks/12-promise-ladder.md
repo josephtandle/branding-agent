@@ -49,13 +49,13 @@ Map your current homepage or sales copy to the rungs. Then ask:
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
 | Rung | Claim | Where it currently lives |
 |------|-------|-------------------------|
-| 1 | "You leave each session with something built." | Buried in program description |
-| 2 | "Most members save 100+ hours a month." | Mentioned on homepage |
-| 3 | "You stop being the operator without hiring a team." | In positioning work, not homepage |
-| 4 | "I run a business that runs itself, and it still sounds like me." | Not on homepage at all |
+| 1 | "Members leave each session with something built." | Suggested program description |
+| 2 | "Over six weeks, members build the core pieces of their client delivery and admin system." | Suggested program explanation |
+| 3 | "The practice can support client work without every repeatable task living with the founder." | Suggested positioning work |
+| 4 | "Members become the architect of a practice that still feels like their own." | Suggested brand promise |
 
-Fix: Rung 1 should be in the hero section. It's the most credible, most specific, most differentiating claim in the program — and it's buried.
+Fix: Use Rung 1 in a future hero section. It is the most credible, specific, and differentiating claim in the program, and it gives the later rungs a believable foundation.

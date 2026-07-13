@@ -46,12 +46,12 @@ The most powerful brands operate with a primary and secondary archetype in delib
 - **Nike**: Hero (mastery) + Outlaw (rebellion). Tension: mastery implies working within rules; rebellion implies breaking them. Together: "win by your rules, not theirs."
 - **Patagonia**: Caregiver (stewardship) + Rebel (anti-corporate). Tension: caring implies nurturing existing structures; rebellion implies tearing them down. Together: "we care so much we're willing to disrupt our own industry."
 
-**The Mastermind HQ dual archetype:**
-- **Primary**: Sage (wisdom from experience, real results, proof-based teaching)
-- **Secondary**: Creator (builds real things, every session produces something, hands-on creation)
-- **Tension**: Sage implies knowing the answers; Creator implies discovering through making. Together: "I know the way because I've built it myself — and I'll build it with you until you know it too."
+**The Harborlight Studio dual archetype:**
+- **Primary**: Sage, wisdom from Rae's lived experience of running a manual solo practice and from published proof of the system she built.
+- **Secondary**: Creator, members build real client delivery and admin systems live, and every session produces something tangible.
+- **Tension**: Sage implies knowing the way; Creator implies discovering through making. Together, Rae teaches the method she built and members build it into their own practices.
 
-**Latent third**: Magician (AI + Intuition worldview, Creator's Round Table, the transformation that happens when both forces align). This archetype can emerge in specific content contexts without conflicting with the primary.
+**Latent third**: Magician, the shift from personally carrying every repeatable task to working from a coherent system can feel transformative. This archetype can emerge in specific content contexts without conflicting with the primary.
 
 ---
 
@@ -79,23 +79,23 @@ Shadow expression usually appears when the copy is reaching for an effect it has
 
 ---
 
-## Mastermind HQ Shadow Watch
+## Applied Example: Harborlight Studio Shadow Watch
 
-**Primary: Sage — Shadow risk: condescension**
+**Primary: Sage. Shadow risk: condescension**
 
 Watch for:
-- "Most people don't realize..." — patronizing
-- "The real reason your [X] isn't working..." — positions audience as deficient
-- Credentials leading before story — signals authority-proving rather than serving
-- "If you're still doing X manually..." — implies the audience is behind
+- "Most people do not realize..." can sound patronizing
+- "The real reason your [X] is not working..." can position the audience as deficient
+- Authority claims leading before Rae's story can sound like proving rather than serving
+- "If you are still doing X manually..." can imply the audience is behind
 
-**Rewrite pattern**: Whenever Sage shadow appears, replace with a behavior observation followed by an invitation. "I spent years doing this manually too. Here's what changed when I stopped."
+**Rewrite pattern**: Whenever Sage shadow appears, replace it with a behavior observation followed by an invitation. Rae's experience can be framed as: "Rae spent years doing this manually too. Here is what changed when she built the system."
 
-**Secondary: Creator — Shadow risk: perfectionism signaling**
+**Secondary: Creator. Shadow risk: perfectionism signaling**
 
 Watch for:
 - Over-caveating ("this only works if...", "results may vary...")
-- Complexity language ("it's not as simple as...", "there are a lot of moving parts...")
+- Complexity language ("it is not as simple as...", "there are a lot of moving parts...")
 - Elitism about the work ("not everyone is ready for this...")
 
 **Rewrite pattern**: Replace complexity with the simplest possible version of the truth. If the truth is complex, tell a story instead of explaining the complexity.

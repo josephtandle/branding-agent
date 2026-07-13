@@ -34,22 +34,20 @@ Then check:
 
 ## Examples
 
-"This is not for people who want someone else to build it for them and never want to understand how it works." (Mastermind HQ)
+"This is not for people who want someone else to build it for them and never want to understand how it works." (Harborlight Studio)
 
-"This is not for founders who are still figuring out what they're selling." (Mastermind HQ)
+"This is not for practitioners who are still figuring out what service they offer." (Harborlight Studio)
 
 "This is not for people who want a course to binge and a certificate to hang on the wall." (Any program that prioritizes implementation)
 
-"This is not for people who believe the answer is to keep adding apps." (Mastermind HQ — names the Common Enemy directly)
+"This is not for people who believe the answer is to keep adding apps." (Harborlight Studio, names the Common Enemy directly)
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
 This offer is NOT for:
 - People who want someone else to build it for them and never want to understand how it works
-- Pre-revenue founders who are still figuring out what they're selling
-- Consultants or agencies already selling automation services to others
-- Anyone who wants to join, watch the recordings, and not show up to sessions
+- People without a full client roster who are not yet carrying client delivery and admin themselves
 - People who believe adding more apps is the answer
-- Those looking for mindset coaching without implementation
+- People looking for more content instead of building the architecture for their own practice

@@ -53,9 +53,9 @@ The most valuable clients — loyal, long-term — are built at Levels 2 and 3. 
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-Most Mastermind HQ audience: **Level 4** (warm referrals).
-Most Mastermind HQ content: **Level 2-3** (problem awareness).
-Gap: content is written for strangers; audience is not strangers.
-Fix: warm track content that confirms fit and shows the inside.
+A likely Harborlight Studio prospect: **Level 2-3**. They feel the weight of doing every part of client delivery and admin, and they are looking for a better way to hold the work.
+For a warm referral: **Level 4**. The content should confirm that The Harborlight Build fits the person's practice.
+Gap to watch: app and feature language can skip the architecture problem the audience is still trying to name.
+Fix: use problem-aware content to name the manual burden, then use warm-track content to show how members build their own system live.

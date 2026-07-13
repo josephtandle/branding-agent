@@ -108,14 +108,14 @@ Score each mechanic 1-5 for any brand:
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
 | Mechanic | Current State | What's Needed |
 |----------|--------------|---------------|
-| Shared Otherness | Partially present — "conscious/creative founders" is implicit, not explicit | Name it explicitly in homepage copy |
-| Unconditional Welcome | Strong in sessions — not in content | Surface the warmth in outward content |
-| Belonging Rituals | Local community meetups, group chat, weekly sessions (strong) | Document and amplify in content |
-| Physical Commitment | Strong — in-person events, weekly live sessions | Feature in outward messaging |
-| Mutual Stake | Strong referral culture — members recruit others | Acknowledge and systematize |
-| Doctrine | Partially present — AI + Intuition worldview | Needs to be front and center in all content |
-| Enemy | Named in Brand Brain — not in outward content | "We oppose X" needs to be visible |
+| Shared Otherness | Independent consultants, coaches, and practitioners with full rosters who still do every piece themselves | Name that manual burden explicitly in homepage copy |
+| Unconditional Welcome | Warm, direct live sessions offer a friend-to-friend setting | Surface that warmth in outward content |
+| Belonging Rituals | Weekly live building and leaving each session with something built | Give the practice a repeatable shared language |
+| Physical Commitment | A six-week program with live weekly building | Feature the act of building in outward messaging |
+| Mutual Stake | Members build systems for their own practices | Invite members to share the progress they have built |
+| Doctrine | Architecture before more apps or more content | Keep the belief visible in all content |
+| Enemy | The belief that stacking apps and content fixes an architecture problem | State the opposition clearly |

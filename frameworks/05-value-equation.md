@@ -19,7 +19,7 @@ To increase perceived value, you can:
 ## The Four Levers
 
 **1. Dream Outcome**
-What is the most vivid version of the result? Not "saves time" — "you can take a week off and the business still runs." Not "grows revenue" — "you run a $500k month without a team."
+What is the most vivid version of the result? Not "saves time": "you can take a week off and the business still runs." Not "grows the business": "you take on only the clients you actually want, and the delivery still runs without you."
 
 **2. Perceived Likelihood of Achievement**
 Why would they believe it will work for THEM? Specificity beats superlatives. A real client story with a real number beats any claim. Guarantees (refund structures) move this lever dramatically.
@@ -47,11 +47,11 @@ Then ask: which lever is lowest? That is what your offer copy should focus on.
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-**Dream Outcome:** "Business runs itself, still sounds like you." Strong but not yet on the homepage.
-**Perceived Likelihood:** High for warm referrals (social proof works). Low for cold (credentials buried, no story front-and-center).
-**Time Delay:** Very low — you build something in session 1. "Leave each session with something built" is a powerful lever that isn't used enough.
-**Effort and Sacrifice:** Low — 2 hours per week. But this isn't communicated clearly.
+**Dream Outcome:** "A client delivery and admin system that carries the repeatable work." The outcome is specific to the burden of a full client roster.
+**Perceived Likelihood:** Rae built the system for her own manual solo practice first and publishes proof of how it works. That lived experience gives the method a clear basis for belief.
+**Time Delay:** Low. Members build live, week by week, and leave each session with something built.
+**Effort and Sacrifice:** Bounded. The Harborlight Build is a six-week program where the work happens with support rather than being left as solo homework.
 
-Biggest opportunity: lead with the Time Delay lever in cold content. "You leave session 1 with something that runs."
+Suggested priority: lead with the Time Delay lever in introductory content. "Leave each session with something built."

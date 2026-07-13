@@ -53,16 +53,16 @@ The language from these interviews is your best copy.
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-**Functional job:** "Build an AI system that runs my operations so I can stop doing everything manually."
+**Functional job:** "Build a client delivery and admin system live, so the practitioner stops holding every repeatable task manually."
 
-**Social job:** "Be the kind of founder who has figured out automation — not someone who's still figuring it out."
+**Social job:** "Become a practitioner with a reliable system, not someone whose full roster is held together by memory and extra apps."
 
-**Emotional job:** "Feel in control of my business again. Feel like the architect, not the operator. Feel like it still sounds like me."
+**Emotional job:** "Feel in control of the practice again and become the architect of the work while it still feels personal to clients."
 
-**The hiring moment (Maya, a yoga teacher):** A prospective student asked if she had a page for a new workshop. She wanted to build it that evening but could not do it fast enough. That was the moment the functional, social, and emotional jobs all fired at once.
+**The hiring moment:** A full-roster practitioner sees that every delivery step, follow-up, and admin task still needs personal attention. The functional, social, and emotional jobs all fire when the manual load makes the practice harder to sustain.
 
-**Anxieties before hiring:** "I'm too creative for this." "I'm not techie." "This will make my content generic."
+**Anxieties before hiring:** Whether a full client roster leaves enough room to build a system live over six weeks while maintaining client work.
 
-**What they were firing:** Squarespace, VSL hosting platforms, stacked SaaS subscriptions, the idea of hiring a VA.
+**What they were firing:** Manual workarounds, a patchwork of apps, and more content that does not fix the architecture.

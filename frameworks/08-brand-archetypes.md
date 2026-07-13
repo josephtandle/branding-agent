@@ -43,14 +43,14 @@ Brands work best with one primary archetype and one secondary. More than two cre
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-**Primary:** The Sage — Joe has deep knowledge, lived experience, real results. He teaches from proof, not theory. "I trained 90,000 people including the CIA" is Sage credibility.
+**Primary:** The Sage. Rae built the system for her own manual solo practice first and teaches from published proof of what she built, not from theory.
 
-**Secondary:** The Creator — the program produces real things (systems, websites, automations). The ethos is creation over consumption. "Leave each session with something built."
+**Secondary:** The Creator. The program produces a real client delivery and admin system through live weekly building. The ethos is creation over consumption. "Leave each session with something built."
 
-**Tertiary (latent):** The Magician — the AI + Intuition worldview is transformational and slightly mystical. Creator's Round Table leans into this.
+**Tertiary (latent):** The Magician. The shift from personally carrying every task to working from a coherent system can feel transformative when members see their own architecture take shape.
 
-**What to avoid:** Ruler energy (too authoritarian for a values-led audience). Jester energy (undermines the gravity of the transformation).
+**What to avoid:** Ruler energy, which can feel too authoritarian for an independent-practitioner audience. Jester energy, which can undermine the care required to build a working system.
 
-**Voice implication:** Warm authority. Specific over general. Story over theory. Builds in public. Invites, doesn't pressure.
+**Voice implication:** Warm, direct, specific, friend-to-friend. Teach from lived experience and published proof. Invite rather than pressure.

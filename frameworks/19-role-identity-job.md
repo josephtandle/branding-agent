@@ -73,16 +73,16 @@ For each piece of content, ask:
 
 ## Role Identity Jobs by Project
 
-### Mastermind HQ
+### Harborlight Studio (fictional worked example)
 
-**Functional job**: Build AI systems that handle operations automatically.
-**Emotional job**: Feel in control. Feel like a real business owner, not a solopreneur scrambling.
-**Role identity job**: "I am someone who built a business that runs itself. I created a system. I am not the bottleneck anymore — I am the architect."
+**Functional job**: Build a client delivery and admin system live that handles the repeatable work in the practice.
+**Emotional job**: Feel in control without personally carrying every task for a full client roster.
+**Role identity job**: Become the practitioner who built a system for the practice and now works as its architect rather than its bottleneck.
 
 **Sub-identities by ICP segment**:
-- The creative/spiritual founder: "I am someone who uses technology without losing my soul. I am proof that AI doesn't have to make you generic."
-- The digital nomad founder: "I run a real business and I live wherever I want because it doesn't need me there."
-- The expert practitioner: "I finally have the infrastructure my expertise deserves. My ability to serve clients is no longer limited by my time."
+- The independent consultant: A consultant whose client delivery has a system, so the work is not held together by memory and extra apps.
+- The coach: A coach who protects the personal quality of client work while building reliable admin around it.
+- The practitioner: A practitioner whose capacity to serve clients is supported by a system built for the practice.
 
 ---
 

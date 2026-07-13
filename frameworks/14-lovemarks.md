@@ -74,13 +74,13 @@ High trust + high love + yes on both = Lovemark indicators.
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-**Current position**: Brand (high respect — credentials, real results, strong referrals) but incomplete on love (the love mechanics — mystery, sensuality, intimacy — are present in the room but not visible in outward content).
+**Current position**: Brand potential. Respect can be grounded in Rae's lived experience and published proof, while love can grow when the studio makes its warmth and conviction easier to feel.
 
-**Missing Lovemark elements**:
-- **Mystery**: The AI + Intuition worldview has mystery potential but it's event-specific, not brand-wide
-- **Sensuality**: Not present in current homepage or content
-- **Intimacy commitment**: "I've been where you are" can be expressed through the founder's personal story; it is not yet used
+**Lovemark elements to develop**:
+- **Mystery**: The belief that a practice needs architecture, not an ever-growing app pile, can become a memorable worldview
+- **Sensuality**: The live, week-by-week build can be described through concrete moments of making progress
+- **Intimacy commitment**: Rae's experience of running a solo practice manually can show that the studio understands the weight of holding every task
 
-**Path to Lovemark**: Lead with mystery by expressing a distinctive worldview. Build intimacy through the founder's honest story of the problem they once faced. Add sensuality through concrete, evocative details of the brand experience, such as a welcoming studio, tactile materials, or a signature ritual.
+**Path to Lovemark**: Lead with the studio's distinctive worldview. Build intimacy through Rae's honest story of the manual practice she built the system for first. Add sensuality through specific details of members leaving each session with something built.

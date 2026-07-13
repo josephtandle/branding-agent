@@ -17,7 +17,7 @@ If yes: not positioned. Make one element more specific. Then another. Keep going
 Work through these in order until the test passes:
 
 1. **The person** — not "service business owners" but "coaches and practitioners who built their practice around their personal methodology and are scared AI will make it generic"
-2. **The situation** — not "struggling with growth" but "hitting a ceiling at $150k/year because every hour of growth requires an equal hour of your time"
+2. **The situation**: not "struggling with growth" but "hitting a hard ceiling because every hour of growth requires an equal hour of your time"
 3. **The outcome** — not "grow your business" but "replace yourself as the operator without hiring a team or handing your vision to an agency"
 4. **The method** — not "using AI tools" but "building your custom system live, together, every week, until it runs on its own"
 5. **The alternative** — not "unlike other programs" but naming the actual real alternative: "that a course or a done-for-you agency cannot provide"

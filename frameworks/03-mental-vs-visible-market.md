@@ -10,7 +10,7 @@
 Features, price, specs, deliverables. Buyers compare. Someone always charges less.
 - "6 weekly sessions, resource vault, WhatsApp community"
 - "100+ hours saved per month"
-- "$450-$999/month"
+- "Tiered monthly pricing"
 
 **Mental Market**
 Beliefs, identity, meaning, transformation. Buyers desire. Devoted clients live here.
@@ -29,7 +29,7 @@ Nobody pays premium prices for features. They pay for:
 
 When your positioning is in the Visible Market, your sales conversations are always hard. When it's in the Mental Market, clients close themselves.
 
-**The Ferrari principle:** Ferrari deliberately limits production. They could triple revenue. They choose not to because scarcity is part of the positioning. You do not need 200 clients. You need 20 right ones. Premium pricing is a Mental Market decision.
+**The Ferrari principle:** Ferrari deliberately limits production. They could sell far more cars than they do. They choose not to because scarcity is part of the positioning. You do not need 200 clients. You need 20 right ones. Premium pricing is a Mental Market decision.
 
 ---
 
@@ -65,11 +65,11 @@ Example:
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-Current homepage: Visible Market (automate, organize, increase income — all features/outcomes).
-Actual transformation: Mental Market (founder as architect, not operator; business runs itself; voice preserved).
+Visible Market framing: a Harborlight page would be in the Visible Market if it led with apps, tasks, and administrative features.
+Mental Market transformation: the practitioner becomes the architect of a client delivery and admin system instead of the person personally holding every piece.
 
-Why referrals convert better than cold: referrals communicate the Mental Market transformation. The homepage doesn't.
+Referral implication: a warm referral can communicate the relief and ownership of building a system that fits the practice. Feature lists cannot carry that meaning alone.
 
-Fix: Lead the homepage with the Mental Market statement. Let features live in the "what you get" section.
+Fix: Lead a future homepage with the Mental Market statement. Let program details live in the "what you get" section.

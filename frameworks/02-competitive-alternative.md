@@ -53,10 +53,10 @@ The company that beats you is not your competitor. It's inertia.
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
-Real alternatives: kept doing it manually / hired a VA / bought another AI course / stayed on stacked SaaS tools.
+Potential alternatives: keep holding delivery and admin together manually, add another app, seek more content, or hand the setup to someone else.
 
-What those alternatives cannot provide: building the actual system live, together, every week, until it runs. You leave each session with something built. No VA, no course, no agency delivers this.
+What those alternatives cannot provide: a six-week live build where members create their own client delivery and admin system week by week. Members leave each session with something built.
 
-Sharpest differentiator: "leave each session with something built."
+Sharpest differentiator: "Members leave each session with something built."

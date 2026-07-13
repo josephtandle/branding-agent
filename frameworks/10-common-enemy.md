@@ -47,17 +47,16 @@ The enemy shows up in:
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
 **The enemy:** The belief that more apps and more content will solve an architecture problem.
 
 More specifically:
-- AI as a productivity bolt-on (disconnected tools, no coherent system)
-- Done-for-you agencies that build without teaching (dependency, not ownership)
-- Courses that give knowledge without building anything (information without implementation)
-- Stacking SaaS tools hoping they eventually talk to each other
+- Adding apps without a coherent client delivery and admin system
+- Adding more content without a coherent client delivery and admin system
+- Stacking tools and hoping they will eventually work together
 
 **How to use it in content:**
-"You don't have an AI problem. You have an architecture problem. No amount of new tools fixes that."
+"You do not have an app problem. You have an architecture problem. More tools cannot fix that."
 
-"The reason your content feels generic isn't the AI. It's that you're feeding the AI without a system behind it."
+"When every client step still depends on manual attention, another app only adds another place to manage."

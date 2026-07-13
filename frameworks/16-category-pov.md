@@ -26,7 +26,7 @@ What is wrong with the current dominant approach in your space? What pain does e
 
 Frame it as a systemic problem, not a personal complaint. "The current approach to X is broken because..."
 
-Example for Mastermind HQ: "Most founders using AI are treating it as a productivity bolt-on — a collection of disconnected tools that speeds up existing chaos. They're not building systems. They're building faster noise."
+Example for Harborlight Studio: "Independent practitioners with full client rosters are often adding apps and content to a delivery and admin problem. The tools may add activity, but they do not create the architecture that holds the work together."
 
 ### 2. The Stakes of Inaction
 What happens to someone who doesn't change? Be specific. What does their world look like in 12 months if the broken world continues?
@@ -114,16 +114,16 @@ The difference is courage. A strong POV requires being willing to be wrong, to e
 
 ---
 
-## Mastermind HQ Application
+## Applied Example: Harborlight Studio
 
 **Draft Category POV:**
 
-**The Broken World**: Most founders using AI are building faster noise. They add tools. They generate more content. They automate their existing chaos. The result is a business that runs faster in the wrong direction — because the AI was given acceleration but no signal to follow.
+**The Broken World**: Independent consultants, coaches, and practitioners with full client rosters are asked to solve every friction point by adding another app or another piece of content. The result is more places to manage while delivery and admin still depend on the founder.
 
-**Stakes of Inaction**: Without a coherent architecture, every AI tool you add creates more dependency, more complexity, and more noise that sounds increasingly generic. In 12 months, your business looks exactly the same — just louder. And the AI has made your voice harder to find inside it.
+**Stakes of Inaction**: Without a coherent architecture, each new tool can add complexity without removing the manual work. The practice stays dependent on the person doing every step, even as the stack becomes harder to hold together.
 
-**The Vision**: A business where AI handles acceleration and intuition provides direction — and both are running simultaneously. Where the founder focuses only on what they and only they can do, and everything else runs. Where the business grows without the founder becoming the bottleneck again.
+**The Vision**: A practice where client delivery and admin have a system that supports the repeatable work. The founder stays present for the work that needs their judgment, while the system carries what can be built into it.
 
-**The Solution Frame**: That future requires a custom AI architecture built around the specific founder, their specific business, their specific voice. Not off-the-shelf tools. Not an agency building it without you. A system built together, live, until it runs — and a founder who understands every layer of it.
+**The Solution Frame**: That future requires a done-with-you build around the member's own practice. In The Harborlight Build, members work live for six weeks, build their system week by week, and leave each session with something built. Rae teaches from the system she built for her own manual solo practice first and from published proof of how it works.
 
-**Category Name**: "Intuitive AI Architecture" or "AI-Coherent Business" — still to be refined.
+**Category Name**: Keep the label open. The studio's point of view is a done-with-you operations architecture for independent practitioners.
