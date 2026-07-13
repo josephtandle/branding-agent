@@ -51,6 +51,6 @@ Brands work best with one primary archetype and one secondary. More than two cre
 
 **Tertiary (latent):** The Magician — the AI + Intuition worldview is transformational and slightly mystical. Creator's Round Table leans into this.
 
-**What to avoid:** Ruler energy (too authoritarian for the Bali/conscious audience). Jester energy (undermines the gravity of the transformation).
+**What to avoid:** Ruler energy (too authoritarian for a values-led audience). Jester energy (undermines the gravity of the transformation).
 
 **Voice implication:** Warm authority. Specific over general. Story over theory. Builds in public. Invites, doesn't pressure.

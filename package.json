@@ -1,6 +1,6 @@
 {
   "name": "branding-agent",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lightweight branding and funnel-audit toolkit for founder-led businesses.",
   "license": "MIT",
   "type": "commonjs",
@@ -13,4 +13,3 @@
     "test": "node ./bin/branding-agent.js status"
   }
 }
-

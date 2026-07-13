@@ -73,7 +73,7 @@ Shadow expression usually appears when the copy is reaching for an effect it has
 
 **Common fix patterns:**
 - Condescension (Sage shadow) → Add a personal admission. "I got this wrong too before I..."
-- Arrogance (Hero shadow) → Shift credit to the client. "What Quincee built in week two..."
+- Arrogance (Hero shadow) → Shift credit to the client. "What Avery built in week two..."
 - Manipulation (Magician shadow) → Ground the transformation claim in a specific proof point.
 - Martyrdom (Caregiver shadow) → Remove all "for you" language; let the work speak.
 

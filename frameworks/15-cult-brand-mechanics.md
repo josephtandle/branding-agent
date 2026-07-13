@@ -114,7 +114,7 @@ Score each mechanic 1-5 for any brand:
 |----------|--------------|---------------|
 | Shared Otherness | Partially present — "conscious/creative founders" is implicit, not explicit | Name it explicitly in homepage copy |
 | Unconditional Welcome | Strong in sessions — not in content | Surface the warmth in outward content |
-| Belonging Rituals | Bali community, WhatsApp, weekly sessions — strong | Document and amplify in content |
+| Belonging Rituals | Local community meetups, group chat, weekly sessions (strong) | Document and amplify in content |
 | Physical Commitment | Strong — in-person events, weekly live sessions | Feature in outward messaging |
 | Mutual Stake | Strong referral culture — members recruit others | Acknowledge and systematize |
 | Doctrine | Partially present — AI + Intuition worldview | Needs to be front and center in all content |

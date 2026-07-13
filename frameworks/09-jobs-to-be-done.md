@@ -61,7 +61,7 @@ The language from these interviews is your best copy.
 
 **Emotional job:** "Feel in control of my business again. Feel like the architect, not the operator. Feel like it still sounds like me."
 
-**The hiring moment (Quincee's story):** Someone asked if she had a page for an offering. She wanted to build it that evening. She couldn't do it fast enough. That was the moment the functional, social, and emotional jobs all fired at once.
+**The hiring moment (Maya, a yoga teacher):** A prospective student asked if she had a page for a new workshop. She wanted to build it that evening but could not do it fast enough. That was the moment the functional, social, and emotional jobs all fired at once.
 
 **Anxieties before hiring:** "I'm too creative for this." "I'm not techie." "This will make my content generic."
 

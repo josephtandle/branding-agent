@@ -29,7 +29,7 @@ Work through these in order until the test passes:
 **"Does this describe a specific person in a specific situation, or a category of people?"**
 
 A category: "entrepreneurs who want to scale"
-A specific person: "a somatic coach in Bali who has a full client roster, is doing everything herself, and is about to hire a VA she doesn't actually need"
+A specific person: "a somatic coach in Portland who has a full client roster, does every task herself, and is about to hire a VA she does not actually need"
 
 Specific beats broad in every conversion metric. Broad attracts more people. Specific attracts the right people who convert.
 

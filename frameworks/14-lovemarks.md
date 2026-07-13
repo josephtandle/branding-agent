@@ -81,6 +81,6 @@ High trust + high love + yes on both = Lovemark indicators.
 **Missing Lovemark elements**:
 - **Mystery**: The AI + Intuition worldview has mystery potential but it's event-specific, not brand-wide
 - **Sensuality**: Not present in current homepage or content
-- **Intimacy commitment**: "I've been where you are" — Joe's personal story is the intimacy lever; not used
+- **Intimacy commitment**: "I've been where you are" can be expressed through the founder's personal story; it is not yet used
 
-**Path to Lovemark**: Lead with the mystery (the worldview that AI and intuition are not separate). Let the intimacy come through Joe's story (not credentials — story). The sensuality lives in the Bali setting, the private chef dinners, the specificity of the room — bring that texture into the content.
+**Path to Lovemark**: Lead with mystery by expressing a distinctive worldview. Build intimacy through the founder's honest story of the problem they once faced. Add sensuality through concrete, evocative details of the brand experience, such as a welcoming studio, tactile materials, or a signature ritual.

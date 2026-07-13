@@ -69,11 +69,3 @@ Part 3 covers:
 **Prerequisite:** Language layer from Part 2 must be complete.
 
 ---
-
-## Mastermind HQ Status
-
-| Part | Status | Output file |
-|------|--------|-------------|
-| Part 1 | Complete | `~/.myos/workspace/projects/mastermind/workshop-part1-answers.md` |
-| Part 2 | Not started | — |
-| Part 3 | Not started | — |
