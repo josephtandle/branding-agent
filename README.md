@@ -46,6 +46,32 @@ Local manifest path:
 - macOS/Linux: `~/.branding-agent/install.json`
 - Windows: `%USERPROFILE%\.branding-agent\install.json`
 
+## Register as a skill and agent
+
+The installer detects Claude Code, Codex, and Gemini, and registers the Branding Agent skill with each one it finds.
+
+The skill folder is copied (never symlinked, because Windows symlinks require admin rights or Developer Mode) to:
+
+- `~/.claude/skills/branding-agent/`
+- `~/.codex/skills/branding-agent/`
+- `~/.gemini/skills/branding-agent/`
+
+Claude Code additionally gets an agent definition copied to `~/.claude/agents/branding-agent.md`. Codex has no agent registry, and Gemini agent registration is not shipped, so the agent is Claude Code only.
+
+Anything already at those targets is renamed to a timestamped `.backup-<timestamp>` path first. The installer never overwrites your existing skills or agents destructively.
+
+On Windows the same paths apply under `%USERPROFILE%`.
+
+After installing, restart your AI tool session so the new skill is discovered.
+
+Installer flags:
+
+- `--target <dir>`: install the toolkit into a specific directory
+- `--home <dir>`: override the home directory used for the manifest and host registration
+- `--skip-global`: do not install the global `branding-agent` command
+- `--dry-run`: print exactly what would be installed and registered, without writing anything
+- `--help`: show usage
+
 ## Verify the install
 
 ```bash
@@ -87,11 +113,11 @@ branding-agent template brand-brain
 
 ## Repository structure
 
-- `frameworks/` — brand and positioning frameworks
-- `templates/` — reusable brand-brain template
-- `prompts/` — copy/paste prompts for Claude Code or similar agents
-- `install/` — installer and launcher
-- `bin/` — CLI entrypoint
+- `frameworks/`: brand and positioning frameworks
+- `templates/`: reusable brand-brain template
+- `prompts/`: copy/paste prompts for Claude Code or similar agents
+- `install/`: installer and launcher
+- `bin/`: CLI entrypoint
 
 ## Notes
 
