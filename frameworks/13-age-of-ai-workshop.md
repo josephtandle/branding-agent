@@ -7,7 +7,7 @@ kg:
   relations: {}
 ---
 # Framework: Age of AI Workshop — Part 1, 2, 3
-> Source: Tiyana Ti, adapted by Joe Che for Masterminds HQ
+> Source: Tiyana Ti, adapted for a workshop audience
 > Live workshop page: https://ageofai.mastermindshq.business/
 > Use for: running a full brand brain build from scratch for any project
 

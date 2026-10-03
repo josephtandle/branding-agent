@@ -2,7 +2,7 @@
   "name": "branding-agent",
   "version": "2.2.1",
   "description": "Lightweight branding and funnel-audit toolkit for founder-led businesses.",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "commonjs",
   "bin": {
     "branding-agent": "./bin/branding-agent.js"

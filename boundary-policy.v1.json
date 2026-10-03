@@ -2,10 +2,10 @@
   "schema": "mnstry.atelier-boundary-policy@v1",
   "mode": "strict",
   "actors": {
-    "joe": {
-      "githubLogin": "JOE_GITHUB_LOGIN_PLACEHOLDER",
+    "owner": {
+      "githubLogin": "OWNER_GITHUB_LOGIN_PLACEHOLDER",
       "gitEmails": [
-        "joe@example.invalid"
+        "owner@example.invalid"
       ],
       "privateDomainRepo": "branding-agent-public"
     }
@@ -13,7 +13,7 @@
   "repos": {
     "branding-agent-public": {
       "kind": "private_domain",
-      "ownerActor": "joe",
+      "ownerActor": "owner",
       "readBoundary": "private",
       "allowedAudiences": [
         "private",

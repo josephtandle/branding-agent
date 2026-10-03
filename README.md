@@ -138,4 +138,4 @@ branding-agent template brand-brain
 
 ## License
 
-MIT
+All Sorted Personal Use License: use it for yourself, never sell or redistribute it. See LICENSE.

@@ -7,7 +7,7 @@ kg:
   relations: {}
 ---
 # Framework: The Specificity Test
-> Source: Age of AI Workshop Part 1 (Tiyana Ti / Joe Che)
+> Source: Age of AI Workshop Part 1 (Tiyana Ti)
 > Use for: evaluating any positioning statement, headline, or claim
 
 ---
