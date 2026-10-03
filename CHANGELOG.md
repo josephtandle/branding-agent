@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:changelog
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Changelog
 
 All notable changes to this project will be documented in this file.

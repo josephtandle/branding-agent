@@ -1,3 +1,15 @@
+---
+title: Build Brand Brain Prompt
+summary: Workflow for producing a first-pass brand brain from the business source material.
+tags: []
+kg:
+  id: branding-agent-public:build-brand-brain
+  type: document
+  status: active
+  audience: team
+  relations:
+    belongs_to: branding-agent-public:brand-brain-template
+---
 Use the Branding Agent to build a first-pass brand brain for this business.
 
 Rules:
@@ -22,4 +34,3 @@ Rules:
    - the 3 biggest open questions
 
 If needed, use the template in `templates/brand-brain-template.md`.
-

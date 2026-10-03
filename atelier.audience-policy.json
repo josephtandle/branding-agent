@@ -1,0 +1,12 @@
+{
+  "schema": "myos.atelier-audience-policy@v1",
+  "defaultAudience": "team",
+  "automaticPublic": false,
+  "overrides": {
+    "CONTEXT.md": "team",
+    "README.md": "team",
+    "agents/branding-agent.md": "team",
+    "templates/brand-brain-template.md": "team",
+    "prompts/build-brand-brain.md": "team"
+  }
+}

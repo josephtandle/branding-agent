@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-07-so-what-chain
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: The So What Chain
 > Source: Referenced in Age of AI Workshop Part 2
 > Use for: translating features into felt outcomes, homepage copy, Mental Market positioning

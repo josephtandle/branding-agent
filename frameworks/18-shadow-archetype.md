@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-18-shadow-archetype
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Shadow Archetype Analysis
 > Source: Carl Jung — Shadow concept; applied to Brand Archetypes by practitioners
 > Use for: brand risk assessment, content quality control, avoiding unintended tone

@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:prompts-funnel-audit
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 Audit my business funnel and suggest how to move people through it more effectively.
 
 Context:
@@ -28,4 +36,3 @@ Output format:
 - bigger structural fixes later
 
 Optimize for revenue and clarity, not complexity.
-

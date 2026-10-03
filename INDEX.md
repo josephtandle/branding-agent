@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:index
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # branding-agent-public
 
 ## Files

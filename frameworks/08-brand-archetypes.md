@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-08-brand-archetypes
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Brand Archetypes
 > Source: Carl Jung / Carol Pearson, The Hero and the Outlaw
 > Use for: voice development, visual identity, community feel, content tone

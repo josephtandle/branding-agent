@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-03-mental-vs-visible-market
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Mental Market vs Visible Market
 > Source: Adapted from positioning theory; referenced in Age of AI Workshop
 > Use for: homepage copy, pricing strategy, sales conversation difficulty

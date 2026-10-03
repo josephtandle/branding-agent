@@ -1,3 +1,15 @@
+---
+title: Brand Brain Template
+summary: Reusable structure for recording a project brand brain.
+tags: []
+kg:
+  id: branding-agent-public:brand-brain-template
+  type: document
+  status: active
+  audience: team
+  relations:
+    belongs_to: branding-agent-public:branding-agent
+---
 # [Project Name] — Brand Brain
 > Created: [DATE]
 > Built from: [sources]

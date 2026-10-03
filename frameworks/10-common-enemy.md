@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-10-common-enemy
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: The Common Enemy
 > Source: Age of AI Workshop Part 1; positioning theory
 > Use for: brand conviction, content angles, community building

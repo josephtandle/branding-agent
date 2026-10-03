@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-14-lovemarks
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Lovemarks
 > Source: Kevin Roberts, Saatchi & Saatchi CEO — "Lovemarks: The Future Beyond Brands" (2004)
 > Academic validation: Journal of Advertising Research, 2006

@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-16-category-pov
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Category Design & POV
 > Source: Christopher Lochhead, Dave Peterson, Al Ramadan — "Play Bigger" (2016)
 > Also: Lochhead's podcast "Category Pirates" (2020+)

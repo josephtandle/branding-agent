@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-13-age-of-ai-workshop
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Age of AI Workshop — Part 1, 2, 3
 > Source: Tiyana Ti, adapted by Joe Che for Masterminds HQ
 > Live workshop page: https://ageofai.mastermindshq.business/

@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-02-competitive-alternative
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Competitive Alternative
 > Source: April Dunford, Obviously Awesome (2019)
 > Use for: positioning statement, differentiation, sales conversations

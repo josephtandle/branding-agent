@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-15-cult-brand-mechanics
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Cult Brand Mechanics
 > Source: Douglas Atkin, "The Culting of Brands: Turn Your Customers into True Believers" (2004)
 > Also draws from: Tajfel & Turner Social Identity Theory; BJ Fogg Behavior Model

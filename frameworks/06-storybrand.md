@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-06-storybrand
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: StoryBrand
 > Source: Donald Miller, Building a StoryBrand (2017)
 > Use for: homepage structure, email sequences, about page, video scripts

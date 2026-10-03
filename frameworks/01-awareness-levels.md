@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-01-awareness-levels
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Five Levels of Awareness
 > Source: Eugene Schwartz, Breakthrough Advertising (1966)
 > Use for: content strategy, hook writing, ad targeting, nurture sequences

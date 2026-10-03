@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-04-specificity-test
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: The Specificity Test
 > Source: Age of AI Workshop Part 1 (Tiyana Ti / Joe Che)
 > Use for: evaluating any positioning statement, headline, or claim

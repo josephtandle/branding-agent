@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-index
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Brand Manager — Framework Library
 
 These are the core frameworks used in every brand brain build and evaluation. Read the relevant ones before running any brand work.

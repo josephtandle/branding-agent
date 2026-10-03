@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-17-voice-fingerprint
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Voice Fingerprint (NNGroup 4-Axis Model)
 > Source: Nielsen Norman Group — Voice and Tone research
 > Also: CrawlQ BRAND Score; Situational Dynamics brand drift methodology

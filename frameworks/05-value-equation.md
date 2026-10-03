@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-05-value-equation
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: The Value Equation
 > Source: Alex Hormozi, $100M Offers (2021)
 > Use for: offer design, pricing, guarantee framing, sales copy

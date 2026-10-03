@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-19-role-identity-job
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Role Identity Job (JTBD Brand Layer)
 > Source: Clayton Christensen, Tony Ulwick, Bob Moesta — Jobs to Be Done theory
 > Brand application: SIVO Insights, Strategyn

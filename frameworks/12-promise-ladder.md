@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-12-promise-ladder
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: The Promise Ladder
 > Source: Positioning and copywriting theory
 > Use for: homepage hierarchy, CTA sequencing, content progression, offer stacking

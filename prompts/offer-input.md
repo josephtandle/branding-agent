@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:prompts-offer-input
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 I want to clarify my offer before I improve my brand and funnel.
 
 Do this in whichever way fits best:
@@ -21,4 +29,3 @@ Important:
 - do not hallucinate services or outcomes
 - if anything is unclear, ask a short follow-up question instead of guessing
 - optimize for clarity and conversion, not cleverness
-

@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-11-anti-positioning
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Anti-Positioning
 > Source: Age of AI Workshop Part 1
 > Use for: ICP clarity, sales qualification, positioning sharpness

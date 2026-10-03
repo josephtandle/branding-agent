@@ -1,9 +1,9 @@
 {
   "schema": "mnstry.atelier-repo-access@v1",
-  "defaultReadBoundary": "private",
+  "defaultReadBoundary": "team",
   "repos": {
     "branding-agent-public": {
-      "readBoundary": "private"
+      "readBoundary": "team"
     }
   }
 }

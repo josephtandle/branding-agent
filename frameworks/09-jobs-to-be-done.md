@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:frameworks-09-jobs-to-be-done
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 # Framework: Jobs to Be Done
 > Source: Clayton Christensen, The Innovator's Dilemma + Tony Ulwick
 > Use for: ICP deepening, offer naming, content angles, sales conversations

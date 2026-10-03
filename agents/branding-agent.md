@@ -1,4 +1,14 @@
 ---
+title: Branding Agent Operating Instructions
+summary: Framework-first instructions for brand strategy and practical brand-brain creation.
+tags: []
+kg:
+  id: branding-agent-public:branding-agent
+  type: document
+  status: active
+  audience: team
+  relations:
+    belongs_to: branding-agent-public:context
 name: branding-agent
 description: Delegate here for brand strategy, positioning, brand-brain creation, offer clarity, archetype and voice alignment, content scoring, or funnel audits that need framework-led analysis.
 ---

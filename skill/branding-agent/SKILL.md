@@ -2,6 +2,12 @@
 name: branding-agent
 description: Use for brand strategy and positioning work, building or updating a brand brain, clarifying offers, choosing archetypes, aligning voice and brand, scoring content against a brand, or auditing a funnel.
 user-invocable: true
+kg:
+  id: branding-agent-public:skill-branding-agent-skill
+  type: document
+  status: active
+  audience: team
+  relations: {}
 ---
 
 # Branding Agent

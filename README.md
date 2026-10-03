@@ -1,3 +1,15 @@
+---
+title: Branding Agent Toolkit
+summary: Overview and operating guide for the branding and funnel toolkit.
+tags: []
+kg:
+  id: branding-agent-public:readme
+  type: document
+  status: active
+  audience: team
+  relations:
+    belongs_to: branding-agent-public:context
+---
 # Branding Agent
 
 A lightweight branding and funnel-audit toolkit for founder-led businesses.

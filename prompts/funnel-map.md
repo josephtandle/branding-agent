@@ -1,3 +1,11 @@
+---
+kg:
+  id: branding-agent-public:prompts-funnel-map
+  type: document
+  status: active
+  audience: team
+  relations: {}
+---
 Help me map my funnel clearly.
 
 I want you to understand:
@@ -31,4 +39,3 @@ After mapping it:
 4. suggest the most important fixes in priority order
 
 Keep the map practical. Use plain language.
-
