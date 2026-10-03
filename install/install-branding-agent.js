@@ -96,11 +96,15 @@ function backupPath(targetPath) {
   return candidate;
 }
 
-function copyWithBackup(sourcePath, targetPath) {
+function copyWithBackup(sourcePath, targetPath, options = {}) {
   let backup = null;
   if (fs.existsSync(targetPath)) {
-    backup = backupPath(targetPath);
-    fs.renameSync(targetPath, backup);
+    if (options.refresh) {
+      removeDir(targetPath);
+    } else {
+      backup = backupPath(targetPath);
+      fs.renameSync(targetPath, backup);
+    }
   }
 
   if (fs.statSync(sourcePath).isDirectory()) {
@@ -244,7 +248,7 @@ function printPlan(installDir, homeDir, args, hosts) {
   console.log("Dry run complete. No files were written.");
 }
 
-function registerHosts(hosts) {
+function registerHosts(hosts, options = {}) {
   const summaries = [];
 
   for (const host of hosts) {
@@ -256,7 +260,7 @@ function registerHosts(hosts) {
     const actions = [];
     const skillTarget = path.join(host.configDir, "skills", "branding-agent");
     ensureDir(path.dirname(skillTarget));
-    const skillBackup = copyWithBackup(SKILL_SOURCE_DIR, skillTarget);
+    const skillBackup = copyWithBackup(SKILL_SOURCE_DIR, skillTarget, options);
     if (skillBackup) {
       console.log(`${host.name}: backed up existing skill to ${skillBackup}`);
       actions.push("backed up existing skill");
@@ -266,7 +270,7 @@ function registerHosts(hosts) {
     if (host.registersAgent) {
       const agentTarget = path.join(host.configDir, "agents", "branding-agent.md");
       ensureDir(path.dirname(agentTarget));
-      const agentBackup = copyWithBackup(CLAUDE_AGENT_SOURCE, agentTarget);
+      const agentBackup = copyWithBackup(CLAUDE_AGENT_SOURCE, agentTarget, options);
       if (agentBackup) {
         console.log(`${host.name}: backed up existing agent to ${agentBackup}`);
         actions.push("backed up existing agent");
@@ -310,9 +314,14 @@ function main() {
     return;
   }
 
-  removeDir(installDir);
-  ensureDir(installDir);
-  copyRecursive(REPO_ROOT, installDir);
+  // When the target is this very folder (the clone that keeps itself updated),
+  // there is nothing to copy: refresh the host registrations from it in place.
+  const inPlace = installDir === REPO_ROOT;
+  if (!inPlace) {
+    removeDir(installDir);
+    ensureDir(installDir);
+    copyRecursive(REPO_ROOT, installDir);
+  }
 
   let globalWorked = false;
   if (!args.skipGlobal) {
@@ -321,7 +330,7 @@ function main() {
 
   verify(installDir);
   const manifestPath = writeManifest(installDir, globalWorked, homeDir);
-  const summaries = registerHosts(hosts);
+  const summaries = registerHosts(hosts, { refresh: inPlace });
 
   console.log("");
   console.log("Branding Agent installed successfully.");

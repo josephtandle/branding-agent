@@ -10,6 +10,7 @@
   "scripts": {
     "status": "node ./bin/branding-agent.js status",
     "list": "node ./bin/branding-agent.js list",
-    "test": "node ./bin/branding-agent.js status"
+    "test": "node ./bin/branding-agent.js status",
+    "selftest": "node bin/branding-agent.js status && node install/install-branding-agent.js --target \"$PWD\" --skip-global"
   }
 }
